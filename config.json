@@ -77,6 +77,25 @@
           "type": "txt"
         }
       ]
+    },
+    {
+      "id": "python-testing",
+      "title": "Testing with pytest",
+      "description": "Write pytest tests for utility functions",
+      "path": "assignments/python_testing",
+      "dueDate": "2026-08-18",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter_code.py",
+          "type": "python"
+        },
+        {
+          "name": "Dependencies",
+          "file": "requirements.txt",
+          "type": "txt"
+        }
+      ]
     }
   ]
 }
